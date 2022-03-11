@@ -1,0 +1,14 @@
+export OS_AUTH_URL=aa
+export OS_IDENTITY_API_VERSION=3
+export OS_PROJECT_NAME=aa
+export OS_PROJECT_DOMAIN_NAME=ss
+export OS_USERNAME=dd
+export OS_USER_DOMAIN_NAME=dd
+export OS_PASSWORD=df
+export OS_AUTH_URL=http://controller:35357/v2/
+export OS_IDENTITY_API_VERSION=3
+export OS_PROJECT_NAME=test
+export OS_PROJECT_DOMAIN_NAME=default
+export OS_USERNAME=admin
+export OS_USER_DOMAIN_NAME=default
+export OS_PASSWORD=alta3
